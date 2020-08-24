@@ -1,0 +1,4 @@
+# SMART_APPAREL
+Facebook build day 2019 by team ENIGMA
+Inspiration
+We have seen people working around the hours and this busy schedule they only happen to have choice of choosing their apparels over the internet, but the drawback is, the size of their favorite product might not fit them. We are here with a solution, we call it “Smart Apparels”, having so less time from their busy schedule, they can use their hand gesture to change between products from their hats to their shoes; they can use this project while shopping and save a lot of time without actually changing dresses. We came up with this idea after looking at the real-time issues of malls, online shopping and performing some surveys, technology that we propose to use is based on SPARK AR and simple camera and some specific scripts. Bringing this idea we intend to save the users/ customers time, as being consumers we know how precious time for customer is.
